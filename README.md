@@ -27,7 +27,7 @@ You need a modern web browser and a text editor to view and edit the code.
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/dynamic-quote-generator.git
+   git clone https://github.com/falitroke/dynamic-quote-generator.git
 
 2. Navigate to the project directory:
    cd dynamic-quote-generator
@@ -72,3 +72,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
    
    . Quotes provided by type.fit.
    . Inspired by various online tutorials and projects.
+
+## Screenshots
+![Quote Generator](docs/screenshot.png)
