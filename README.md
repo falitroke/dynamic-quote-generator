@@ -12,7 +12,7 @@ A simple web application that fetches and displays random quotes, allows users t
 
 ## Live Demo
 
-You can view the live demo of this project on Netlify: [Dynamic Quote Generator](https://your-netlify-link.netlify.app)
+You can view the live demo of this project on Vercel: [Dynamic Quote Generator](https://dynamic-quote-generator.vercel.app)
 
 ## Getting Started
 
