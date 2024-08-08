@@ -70,8 +70,8 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Acknowledgments
    
-   . Quotes provided by type.fit.
-   . Inspired by various online tutorials and projects.
+   - Quotes provided by type.fit.
+   - Inspired by various online tutorials and projects.
 
 ## Screenshots
 ![Quote Generator](docs/screenshot.png)
